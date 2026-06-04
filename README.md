@@ -15,7 +15,7 @@ Our work sits at the intersection of three fundamental vectors: advanced intelli
 
 ### 2. Macroeconomic Data Integrity
 We engineer the open infrastructure required to protect consumers, honest producers, and organic supply chains from systemic deception and greenwashing.
-*   **[SearchForOrganics](https://github.com/MLSpyShop/SearchForOrganics):** Open-source geographic and cryptographic mapping pipelines to connect verified organic producers directly with global markets. This repository removes intermediary friction while maintaining cryptographic proof of authenticity, eliminating the information asymmetries that enable fraud.
+*   **[SearchForOrganics](https://github.com/MLSpyShop/SearchForOrganics):** Open-source geographic and mapping pipelines to connect verified organic producers directly with global markets. This repository removes intermediary friction while maintaining proof of authenticity, eliminating the information asymmetries that enable fraud.
 *   **Global Schema Standardization:** Actively proposing structural data web protocols to the `Schema.org` community to make organic verification machine-readable:
     *   `organicCertification` (Issue #4290): Standardizing verification tracking.
     *   `organicPurityLevel` / **The GOPIS Scale** (Issue #4803): Programmatically distinguishing absolute biological purity (**P-100**) from regulatory buffer allowances (**P-95**).
